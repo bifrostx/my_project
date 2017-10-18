@@ -1,9 +1,10 @@
 # 项目介绍
-这是一个利用 django-registration-redux 建立的一个包含注册系统的项目框架，使用了 bootstrap 美化了部分 template
+这是一个利用 django-registration-redux 建立的一个包含注册系统的项目框架，使用了 bootstrap 及 Django Widget Tweaks 美化了部分 template
 ## 本项目在以下环境中测试通过
 1. Python 3.5
 2. Django 1.11.4
 3. django-registration-redux 1.8
+4. Django Widget Tweaks 1.4.1
 ## 如何使用
 1. 安装以上环境
 2. clone 本项目
