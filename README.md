@@ -13,6 +13,9 @@ pip install django-registration-redux
 pip install django-widget-tweaks
 ```
 2. clone 本项目
+```
+git clone https://github.com/bifrostx/my_project.git
+```
 3. 修改```my_project\settings.py```
 ```
 # registration settings
