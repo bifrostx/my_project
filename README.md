@@ -7,6 +7,11 @@
 4. Django Widget Tweaks 1.4.1
 ## 如何使用
 1. 安装以上环境
+```
+pip install django
+pip install django-registration-redux
+pip install django-widget-tweaks
+```
 2. clone 本项目
 3. 修改```my_project\settings.py```
 ```
